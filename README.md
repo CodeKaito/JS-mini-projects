@@ -27,3 +27,9 @@ In this code I just would like to implement the functionality "toggle" in javasc
 "Toggling the class means if there is no class name assigned to the element, then a class name can be assigned to it dynamically or if a certain class is already present, then it can be removed dynamically by just using the toggle() or by using contains(), add(), remove() methods of DOMTokenList object within JavaScript."
 
 ![image](https://user-images.githubusercontent.com/57111980/212069486-99181470-e5ba-4dec-92a1-137bbeddf29f.png)
+
+## 05-sidebar
+
+Same procedures for the previous projects but in this case the navbar shows from the left.
+![image](https://user-images.githubusercontent.com/57111980/212331927-7814b9af-bc25-4ea0-86c2-d98212ff6077.png)
+
