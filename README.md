@@ -33,3 +33,7 @@ In this code I just would like to implement the functionality "toggle" in javasc
 Same procedures for the previous projects but in this case the navbar shows from the left.
 ![image](https://user-images.githubusercontent.com/57111980/212331927-7814b9af-bc25-4ea0-86c2-d98212ff6077.png)
 
+## 06-modal
+
+Simple opening a modal components in JS
+![image](https://user-images.githubusercontent.com/57111980/212471382-1fffa334-e99d-46da-b5ae-6c18abfad986.png)
