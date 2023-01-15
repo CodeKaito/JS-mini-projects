@@ -36,6 +36,7 @@ Same procedures for the previous projects but in this case the navbar shows from
 ## 06-modal
 
 Simple opening a modal components in JS
+
 ![image](https://user-images.githubusercontent.com/57111980/212471382-1fffa334-e99d-46da-b5ae-6c18abfad986.png)
 
 ## 07-questions
