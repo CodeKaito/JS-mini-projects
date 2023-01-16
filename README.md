@@ -43,4 +43,8 @@ Simple opening a modal components in JS
 
 ![Screenshot 2023-01-15 alle 15 15 18](https://user-images.githubusercontent.com/57111980/212545918-315c0846-0b21-4b5d-9a64-109e76dd3efc.png)
 
+## 08-menu
+
+Menu projects - Displaying items with JS is gonna be bread and butter, getting data from external sites is very important!
+
 
