@@ -36,4 +36,15 @@ Same procedures for the previous projects but in this case the navbar shows from
 ## 06-modal
 
 Simple opening a modal components in JS
+
 ![image](https://user-images.githubusercontent.com/57111980/212471382-1fffa334-e99d-46da-b5ae-6c18abfad986.png)
+
+## 07-questions
+
+![Screenshot 2023-01-15 alle 15 15 18](https://user-images.githubusercontent.com/57111980/212545918-315c0846-0b21-4b5d-9a64-109e76dd3efc.png)
+
+## 08-menu
+
+Menu projects - Displaying items with JS is gonna be bread and butter, getting data from external sites is very important!
+
+
