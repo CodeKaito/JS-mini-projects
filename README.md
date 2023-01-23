@@ -47,4 +47,12 @@ Simple opening a modal components in JS
 
 Menu projects - Displaying items with JS is gonna be bread and butter, getting data from external sites is very important!
 
+## 09
 
+## 10
+
+## 11
+
+## 12
+
+## 13
