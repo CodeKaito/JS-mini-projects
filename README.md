@@ -49,7 +49,11 @@ Menu projects - Displaying items with JS is gonna be bread and butter, getting d
 
 ## 09
 
+![image](https://user-images.githubusercontent.com/57111980/215340435-0ee4aee8-e085-4622-91ce-79cf59bebeb0.png)
+
 ## 10
+
+
 
 ## 11
 
