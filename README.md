@@ -1,5 +1,7 @@
 # Javascript-miniprojects
 
+https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif
+
 ## 01-color-flipper
 
 In this code we are using the function getRandomNumber to return a random value of the array hex or color.
